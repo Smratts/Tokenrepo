@@ -1,3 +1,2 @@
-# Tokenrepo
-
-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
+Token
+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
